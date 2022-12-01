@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/karstenpedersen/fm-qr-code-component)
+- Live Site URL: [Add live site URL here](https://fm-qr-code-component-brown.vercel.app/)
 
 ## My process
 
@@ -43,6 +43,6 @@ For future projects I plan on getting better at React and learn how to style my 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@karstenpedersen](https://www.frontendmentor.io/profile/karstenpedersen)
+- Twitter - [@KarstenFinderup](https://twitter.com/KarstenFinderup)
+- LinkedIn - [Karsten Pedersen](https://www.linkedin.com/in/karsten-pedersen-864418246/)
