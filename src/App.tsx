@@ -11,6 +11,22 @@ function App() {
   return (
     <main>
       <QrCard {...qrData} />
+
+      <div className="attribution">
+        Challenge by{" "}
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank"
+          rel="noopener"
+        >
+          Frontend Mentor
+        </a>
+        . Coded by{" "}
+        <a href="https://www.frontendmentor.io/profile/karstenpedersen">
+          Karsten Pedersen
+        </a>
+        .
+      </div>
     </main>
   );
 }
