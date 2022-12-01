@@ -60,3 +60,9 @@ main {
 .qr-card--content p {
   font-size: 18px;
 }
+
+.attribution {
+  position: fixed;
+  bottom: 1rem;
+  text-align: center;
+}
